@@ -148,7 +148,6 @@
       return __awaiter(this, arguments, void 0x0, function* (_0x53a00a = 0x0) {
         var _0x54210f;
         try {
-          console["log"]("I\x27am\x20running");
           if (
             p(0x64, 0x1) > 0x46 ||
             p(0x64, 0x3) > 0x46 ||
